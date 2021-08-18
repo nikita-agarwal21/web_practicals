@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="StudentList2.css"?>
+<studentsList>
+<student>
+<usn>1JT18CS037</usn>
+<name>Anagha Rao</name>
+<college>Jyothy Institute of Technology</college>
+<branch>Computer Science</branch>
+<yoj>2017</yoj>
+<email>anagha@jyothyit.ac.in</email>
+</student>
+<student>
+<usn>1JT18CS038</usn>
+<name>liza</name>
+<college>Jyothy Institute of Technology</college>
+<branch>Computer Science</branch>
+<yoj>2015</yoj>
+<email>liza@jyothyit.ac.in</email>
+</student>
+<student>
+<usn>1JT18CS039</usn>
+<name>edward</name>
+<college>Jyothy Institute of Technology</college>
+<branch>Computer Science</branch>
+<yoj>2018</yoj>
+<email>edward@jyothyit.ac.in</email>
+</student>
+</studentsList>

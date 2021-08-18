@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Student1ExXSLT.xsl"?>
+ <vtu>
+	<student>
+		<name>Nikita agarwal</name> 
+		<usn>1JT18CS037</usn>
+		<college>JIT</college>
+		<branch>Computer Science</branch>
+		<year>2007</year>
+		<email>nikki@jit.org</email>
+	</student>
+	 <student>
+		<name>Linyi</name>
+		<usn>1JT18CS038</usn>
+		<college>JIT</college>
+		<branch>Computer Science</branch>
+		<year>2006</year>
+		<email>linyi@jit.edu</email>
+	</student>
+	 <student>
+		<name>Lai Kaulin</name>
+		<usn>1JT18CS039</usn>
+		<college>JIT</college>
+		<branch>Computer Science</branch>
+		<year>2005</year>
+		<email>kaunlin@jit.in</email>
+	</student>
+</vtu>

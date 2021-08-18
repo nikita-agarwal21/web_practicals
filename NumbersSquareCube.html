@@ -1,0 +1,39 @@
+<html>
+<title>
+square and cube tables
+</title>
+<head>
+<script>
+function display()
+{
+var i;
+var row;
+var result="<table border='5' style='margin:auto'/>";
+result=result+ "<tr><th>number</th><th>square</th><th>cube</th></tr>";
+
+for(i=1;i<=10;i++)
+{
+row="<tr><td>"+i+"</td><td>"+i*i+"</td><td>"+i*i*i+"</td></tr>";
+result=result+row;
+}
+result=result+"</table>";
+document.getElementById("squarecube").innerHTML=result;
+
+}
+
+
+</script>
+</head>
+<body style="text-align:center">
+<br><br>
+<input type='button' value='display square cube table' onclick='display()'/>
+<br><br>
+<div id='squarecube'></div>
+
+
+
+
+
+
+</body>
+</html>
